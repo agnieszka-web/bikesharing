@@ -10,10 +10,13 @@ Software:
 
 ## Summary:
 Questions answered:
-* How many minutes did the bike rent for?
-* Which gender rents out more bikes?
-* How many checkouts per each day and each hour? Which are busy times?
-* How many checkouts per each day, each hour and which gender?
-* How many checkouts by either customer or a subscriber? Gender?
+1. How many minutes did the bike rent for?
+2. Which gender rents out more bikes?
+3. How many checkouts per each day and each hour? Which are busy times?
+4. How many checkouts per each day, each hour and which gender?
+5. How many checkouts by either customer or a subscriber? Gender?
+
+1. 
+![](bikesharing/images/checkoutmin.PNG)
 
 
