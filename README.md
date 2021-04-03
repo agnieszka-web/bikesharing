@@ -16,7 +16,11 @@ Questions answered:
 4. How many checkouts per each day, each hour and which gender?
 5. How many checkouts by either customer or a subscriber? Gender?
 
-1. 
+
+
+Answer 1.
+Most bikes are rented for 5 minutes.  The range is from 5 min to 60 min. 
+
 ![](bikesharing/images/checkoutmin.PNG)
 
 
